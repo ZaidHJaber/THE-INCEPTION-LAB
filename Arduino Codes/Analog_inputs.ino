@@ -1,6 +1,6 @@
 
 
-const int analog_pin = A1; // analog pin connected to Y output
+const int analog_pin = A1; // analog pin connected to Sesnor output
 
 void setup() {
 
